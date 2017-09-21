@@ -9,6 +9,7 @@ metadata:
   dependencies: ['quay.io/coreos/etcd:latest', 'docker.io/perconalab/percona-xtradb-cluster:5.6', 'wordpress']
   displayName: Wordpress-HA (APB)
   console.openshift.io/iconClass: icon-wordpress
+  providerDisplayName: "Red Hat, Inc."
 plans:
   - name: default
     description: This plan deploys High Availability Wordpress
