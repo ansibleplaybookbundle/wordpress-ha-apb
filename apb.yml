@@ -1,6 +1,5 @@
 version: 1.0
 name: wordpress-ha-apb
-image: ansibleplaybookbundle/wordpress-ha-apb
 description: High Availability Wordpress APB
 bindable: True
 async: optional
